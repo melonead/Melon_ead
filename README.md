@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Brian-Ogoma
-- � I’m interested in web development
-- � I’m currently learning javascript
+- 👋 Hi, I’m @Melon_ead
+- � I’m interested in web development using flask
+- � I’m currently learning python
 
 <!---
 Brian-Ogoma/Brian-Ogoma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
